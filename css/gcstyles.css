@@ -1,0 +1,63 @@
+.header{
+    background-color: rgb(30, 57, 105);
+    color:white;
+    height: 100px;
+    line-height: 100px;
+    /* when you match the line height to the height the text will be centered */
+}
+
+.mainbody{
+  background-color:rgb(213, 229, 243);
+
+}
+
+.footer{
+    position:fixed;
+    background-color:rgb(253, 224, 229);
+    font:bold;
+    color: rgb(18, 79, 149);
+    bottom:0px;
+    right:6px;
+    left:6px;
+    height: 25px;
+}
+
+img{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width:65% 
+}
+
+.common{
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+ul{
+    list-style-position: inside;
+    color:rgb(109, 145, 193);
+    font-size: 20px;
+}
+
+ol{
+    list-style-position: inside;
+    font-weight:bold;
+    font-size: 33px;
+}
+
+.number{
+    color: rgb(30, 88, 143);
+    font-weight:bold
+    font: size 33px;
+}
+
+h2{
+    color:rgb(10, 73, 125)
+}
+
+h3{
+    color:rgb(10, 73, 125);
+    text-align:center;
+    font-size:24px;
+}
